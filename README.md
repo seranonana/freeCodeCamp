@@ -188,6 +188,7 @@ The freeCodeCamp.org community is possible thanks to thousands of kind volunteer
 
 The general platform status for all our applications is available at [`status.freecodecamp.org`](https://status.freecodecamp.org). The build and deployment status for the code is available in [our DevOps Guide](https://contribute.freecodecamp.org/#/devops).
 
+Okay my version
 ### License
 
 Copyright © 2023 freeCodeCamp.org
